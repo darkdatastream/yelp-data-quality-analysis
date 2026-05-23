@@ -1,0 +1,6 @@
+# GitHub Linguist settings
+# Keep notebooks in the repo, but do not let them dominate the language bar.
+*.ipynb linguist-vendored
+
+# Main project code is Python.
+*.py linguist-language=Python
