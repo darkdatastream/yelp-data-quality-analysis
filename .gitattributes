@@ -1,0 +1,6 @@
+# GitHub Linguist settings
+# Count notebooks as Python for language statistics.
+*.ipynb linguist-language=Python
+
+# Main project code is Python.
+*.py linguist-language=Python
