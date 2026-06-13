@@ -86,7 +86,6 @@ https://github.com/darkdatastream/nyc-yellow-taxi-cleanup
 
 ## Work With Me
 
-📧 **data.audit.contact@***REMOVED*****
 
 I help clean, validate, and audit messy datasets before they reach dashboards, reports, or decision-making.
 
